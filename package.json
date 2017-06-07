@@ -32,7 +32,7 @@
     "ssr",
     "displayName"
   ],
-  "dependencies": {
-    "stylis": "2.0.0"
+  "peerDependencies": {
+    "stylis": ">=2"
   }
 }
